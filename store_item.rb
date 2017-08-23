@@ -50,3 +50,4 @@ item_3 = Food.new(
                               price: 5,
                               shelf_life: 7)
 p item_3.info
+p item_3
